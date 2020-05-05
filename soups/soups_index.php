@@ -48,7 +48,7 @@
        include 'table_soups.php';
     ?>
     <?php
-        include 'inc_form_soups.php';
+        include 'inc_form_soups.html';
     ?>
 </body>
 </html>

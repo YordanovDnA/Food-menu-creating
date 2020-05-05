@@ -48,7 +48,7 @@
        include 'table_chinees.php';
     ?>
     <?php
-        include 'inc_form_chinees.php';
+        include 'inc_form_chinees.html';
     ?>
 </body>
 </html>

@@ -48,7 +48,7 @@
        include 'table_main.php';
     ?>
     <?php
-        include 'inc_form_main.php';
+        include 'inc_form_main.html';
     ?>
 </body>
 </html>

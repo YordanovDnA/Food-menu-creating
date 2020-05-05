@@ -7,5 +7,5 @@
         <input required style="color: red" name="table_name" placeholder="Име на файла">
         <input type="submit" name="export" value="CSV Export" class="btn btn-success ">
     </form></div>';
-        include 'inc_form_newtable.php';
+        include 'inc_form_newtable.html';
     ?>

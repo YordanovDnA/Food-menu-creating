@@ -48,7 +48,7 @@
        include 'table_meetless.php';
     ?>
     <?php
-        include 'inc_form_meetless.php';
+        include 'inc_form_meetless.html';
     ?>
 </body>
 </html>

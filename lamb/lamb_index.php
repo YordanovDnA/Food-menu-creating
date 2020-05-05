@@ -48,7 +48,7 @@
        include 'table_lamb.php';
     ?>
     <?php
-        include 'inc_form_lamb.php';
+        include 'inc_form_lamb.html';
     ?>
 </body>
 </html>

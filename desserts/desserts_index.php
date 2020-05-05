@@ -48,7 +48,7 @@
        include 'table_desserts.php';
     ?>
     <?php
-        include 'inc_form_desserts.php';
+        include 'inc_form_desserts.html';
     ?>
 </body>
 </html>

@@ -48,7 +48,7 @@
        include 'table_fish.php';
     ?>
     <?php
-        include 'inc_form_fish.php';
+        include 'inc_form_fish.html';
     ?>
 </body>
 </html>
