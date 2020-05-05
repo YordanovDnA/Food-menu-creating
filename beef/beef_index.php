@@ -48,7 +48,7 @@
        include 'table_beef.php';
     ?>
     <?php
-        include 'inc_form_beef.php';
+        include 'inc_form_beef.html';
     ?>
 </body>
 </html>
