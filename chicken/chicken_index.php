@@ -48,7 +48,7 @@
        include 'table_chicken.php';
     ?>
     <?php
-        include 'inc_form_chicken.php';
+        include 'inc_form_chicken.html';
     ?>
 </body>
 </html>
