@@ -29,7 +29,7 @@
                 <div class="container d-flex justify-content-center">
                     <div class="w-100 p-2 rounded shadow bg-warning text-dark text-center">
                     <span class="text-center">Нямате достъп до тази страница, защото не сте се вписали.</span>
-                    <kbd class=""><a class="text-danger" href="login.php">Вход</a></kbd>
+                    <kbd class=""><a class="text-danger" href="login.html">Вход</a></kbd>
                     </div>
                 </div>
                 <div class="container d-flex justify-content-center">
@@ -40,7 +40,7 @@
                 </div>
             </div>
             <div class="container">
-            <a href="login.php" class="btn-sm btn-dark btn-block text-danger text-center">Вход</a>
+            <a href="login.html" class="btn-sm btn-dark btn-block text-danger text-center">Вход</a>
             </div>
         </body>
         </html>
