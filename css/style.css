@@ -1,0 +1,51 @@
+.hide-buttons {
+	margin: 10px 15px 10px 15px;
+	width: 110px;
+  }
+
+body{
+	background-image: url('../images/blackboard-bg-free-img.png');
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	height: 100%;
+}
+main{
+	height: 650px;
+}
+.bg-mydark{
+	background-color: #222425;
+}
+header {
+	height: 80px !important;
+}
+
+.fixed{
+	position: sticky !important;
+	top: 0;
+	z-index: 1;
+}
+.icon-size{
+	font-size: 28px;
+}
+.btn-top {
+	font-size: 18px !important;
+	padding: 5px !important;
+}
+@media (max-width: 1400px){
+	.btn-top {
+		font-size: 14px !important;
+		padding: 5px !important;
+	}
+	.icon-size{
+		font-size: 20px;
+	}
+}
+@media (max-width: 600px){
+	.btn-top {
+		font-size: 10px !important;
+	}
+	.icon-size{
+		font-size: 16px;
+	}
+}
