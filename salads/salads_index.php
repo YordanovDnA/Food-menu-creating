@@ -22,20 +22,20 @@
   <!-- Latest compiled JavaScript -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 </head>
-<div class="bg-mydark border pt-5 pb-2 fixed">
-  <header class="container">
-    <?php
-       include '../navigation.php';
-    ?>
-  </header>
-</div>
 
 <body>
+  <div class="bg-mydark border pt-5 pb-2 fixed">
+    <header class="container">
+      <?php
+       include '../navigation.php';
+    ?>
+    </header>
+  </div>
   <?php
-       include 'table_pork.php';
+       include 'table_salads.php';
     ?>
   <?php
-        include 'inc_form_pork.html';
+        include 'inc_form_salads.html';
     ?>
 </body>
 
